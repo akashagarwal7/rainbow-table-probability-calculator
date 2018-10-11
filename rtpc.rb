@@ -1,10 +1,12 @@
 # Author - 	Akash Agarwal
 # Email  - 	agarwal.akash333@gmail.com
 
+# Set the values here
 @N = 2074
-@t = 20.0
+@t = 20
 @m = 10.0 # Float used for float division
 
+# Additional set of values
 # @N = 18278
 # @t = 200
 # @m = 2000.0 # Float used for float division
@@ -98,4 +100,3 @@ end
 # Call the functions
 check
 success_factor
-# p mi 3
