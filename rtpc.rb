@@ -1,5 +1,6 @@
-# Author - 	Akash Agarwal
-# Email  - 	agarwal.akash333@gmail.com
+# Author - 			Akash Agarwal
+# Email  - 			agarwal.akash333@gmail.com
+# Github link -		https://github.com/akashagarwal7/rainbow-table-probability-calculator
 
 # Set the values here
 @N = 2074
